@@ -1,0 +1,7 @@
+{
+  "directory": "my/bower",
+  "json": "bower.json",  
+  "endpoint": "https://bower.herokuapp.com",  
+  "searchpath": "",  
+  "shorthand_resolver": ""
+}
