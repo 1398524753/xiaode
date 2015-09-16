@@ -42,15 +42,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/layout.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/layout.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/my\/bower\/animate.css\/animate-config.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -4008,6 +3999,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/img\/logo\/touch-icon-ipad-retina.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10211,
+		"inputAbbreviatedPath": "\/public\/img\/logo\/touch-icon-ipad-retina.png",
+		"outputAbbreviatedPath": "\/public\/img\/logo\/touch-icon-ipad-retina.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/logo\/touch-icon-ipad.png.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5615,
+		"inputAbbreviatedPath": "\/public\/img\/logo\/touch-icon-ipad.png.png",
+		"outputAbbreviatedPath": "\/public\/img\/logo\/touch-icon-ipad.png.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/logo\/touch-icon-iphone-retina.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8296,
+		"inputAbbreviatedPath": "\/public\/img\/logo\/touch-icon-iphone-retina.png",
+		"outputAbbreviatedPath": "\/public\/img\/logo\/touch-icon-iphone-retina.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/public\/img\/logo\/touch-icon-iphone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4674,
+		"inputAbbreviatedPath": "\/public\/img\/logo\/touch-icon-iphone.png",
+		"outputAbbreviatedPath": "\/public\/img\/logo\/touch-icon-iphone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/public\/js\/all.min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -4040,7 +4075,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "xiaode",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "compass_brown"
+	"iconImageName": "meme-fry"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
