@@ -42,6 +42,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/layout.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/layout.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/my\/bower\/animate.css\/animate-config.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -3905,6 +3914,17 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
+	"\/my\/jade\/includes\/header_mobile.jade": {
+		"compileDebug": 0,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/my\/jade\/includes\/header_mobile.jade",
+		"outputAbbreviatedPath": "\/header_mobile.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
 	"\/my\/jade\/layout.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -3963,6 +3983,38 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/my\/sass\/commen.sass",
 		"outputAbbreviatedPath": "\/public\/css\/commen.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/my\/sass\/header.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/my\/sass\/header.sass",
+		"outputAbbreviatedPath": "\/public\/css\/header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/my\/sass\/header_mobile.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/my\/sass\/header_mobile.sass",
+		"outputAbbreviatedPath": "\/public\/css\/header_mobile.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
