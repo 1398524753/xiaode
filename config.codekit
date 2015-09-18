@@ -22,6 +22,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/detail.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/detail.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/Gruntfile.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -3892,6 +3901,17 @@
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
+	"\/my\/img\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 256009,
+		"inputAbbreviatedPath": "\/my\/img\/1.jpg",
+		"outputAbbreviatedPath": "\/my\/img\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/my\/jade\/includes\/footer.jade": {
 		"compileDebug": 0,
 		"fileType": 512,
@@ -3928,10 +3948,21 @@
 	"\/my\/jade\/layout.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/my\/jade\/layout.jade",
 		"outputAbbreviatedPath": "\/layout.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/my\/jade\/pages\/detail.jade": {
+		"compileDebug": 0,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/my\/jade\/pages\/detail.jade",
+		"outputAbbreviatedPath": "\/detail.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
@@ -3943,6 +3974,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/my\/jade\/pages\/index.jade",
 		"outputAbbreviatedPath": "\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/my\/jade\/pages\/topic.jade": {
+		"compileDebug": 0,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/my\/jade\/pages\/topic.jade",
+		"outputAbbreviatedPath": "\/topic.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
@@ -3990,6 +4032,38 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/my\/sass\/detail_main.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/my\/sass\/detail_main.sass",
+		"outputAbbreviatedPath": "\/public\/css\/detail_main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/my\/sass\/footer.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/my\/sass\/footer.sass",
+		"outputAbbreviatedPath": "\/public\/css\/footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
 	"\/my\/sass\/header.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -4015,6 +4089,38 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/my\/sass\/header_mobile.sass",
 		"outputAbbreviatedPath": "\/public\/css\/header_mobile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/my\/sass\/index_main.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/my\/sass\/index_main.sass",
+		"outputAbbreviatedPath": "\/public\/css\/index_main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/my\/sass\/topic_main.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/my\/sass\/topic_main.sass",
+		"outputAbbreviatedPath": "\/public\/css\/topic_main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -4095,6 +4201,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/public\/img\/logo\/xd_wx.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151680,
+		"inputAbbreviatedPath": "\/public\/img\/logo\/xd_wx.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/logo\/xd_wx.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/js\/all.min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -4116,6 +4233,33 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/public\/xdfont\/icons-reference.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/xdfont\/icons-reference.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/xdfont\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/xdfont\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/topic.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/topic.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
@@ -4209,7 +4353,7 @@
 			"flagValue": -1
 			},
 		"no_implicit_braces": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_implicit_parens": {
